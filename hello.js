@@ -3,3 +3,5 @@ function hello() {
 }
 
 module.exports = hello;
+npm install
+npm test
